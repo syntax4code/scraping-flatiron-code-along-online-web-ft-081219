@@ -1,3 +1,1 @@
-class Course 
-  
-
+class Course
