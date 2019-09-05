@@ -15,3 +15,4 @@ class Scraper
 end
 
 Scraper.new.get_page
+end
